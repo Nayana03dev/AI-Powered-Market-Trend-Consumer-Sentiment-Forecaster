@@ -1,0 +1,12 @@
+{
+  "sentiment": {
+    "positive": 68,
+    "neutral": 19,
+    "negative": 13
+  },
+  "marketTrend": {
+    "labels": ["2019", "2020", "2021", "2022", "2023", "2024"],
+    "values": [40, 48, 55, 65, 72, 82]
+  },
+  "forecast": "EV Market Growth"
+}
